@@ -13,14 +13,14 @@
   </head>
   <body>
      <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#">Bootstrap</a>
+    <a class="navbar-brand" href="#">Bootstrap_Assignment</a>
   </nav>
 
   <div class="container mt-4">
       <div class="card">
       <div class="card-body">
-        <h5 class="card-title">Card Title</h5>
-        <p class="card-text">This is some random card content. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+        <h5 class="card-title">Bootstrap</h5>
+        <p class="card-text">Trying to understand random Bootstrap modal content? <p>
         <button class="btn btn-primary">Learn More</button>
       </div>
     </div>
@@ -37,7 +37,7 @@
             <button type="button" class="close" data-dismiss="modal">&times;</button>
           </div>
           <div class="modal-body">
-            This is some random modal content. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Trying to understand random modal content?
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
